@@ -4,7 +4,9 @@
 
 tengo 27 años, soy colombiano, un apasionado por la tecnología en especial el desarrollo web desde que lo conocí y por la lectura de crecimiento personal y educación financiera. Disfruto adquirir nuevos conocimientos, en lo cual estoy enfocado y perfeccionar mis habilidades todos los días. Me caracterizo por cumplir con los objetivos que me propongo. Disfruto de poder trabajar en equipo, aportando mis ideas y conocimientos.
 
-Habilidades: javascript html css react redux Sequelize NodeJS Express GitHub git postgresql typescript
+Habilidades: 
+
+javascript html css react redux Sequelize NodeJS Express GitHub git postgresql typescript
 
 - 🔭 Estoy trabajando en mejorar mis habilidades 
 

@@ -1,4 +1,4 @@
-### Hola 👋, Juan Carlos Ramirez Pinilla 
+### Hola 👋, Soy Juan Carlos Ramirez Pinilla 
 #### Desarrollador web Full Stack
 ![Desarrollador web Full Stack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 

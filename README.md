@@ -1,8 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/96093773/192642479-1cf9bf3d-0ad0-4034-afbb-e20b5216487d.png)
 
-### Hola 👋, Soy Juan Carlos Ramirez Pinilla 
-#### Desarrollador web Full Stack
-
 tengo 27 años, soy colombiano, un apasionado por la tecnología en especial el desarrollo web desde que lo conocí y por la lectura de crecimiento personal y educación financiera. Disfruto adquirir nuevos conocimientos, en lo cual estoy enfocado y perfeccionar mis habilidades todos los días. Me caracterizo por cumplir con los objetivos que me propongo. Disfruto de poder trabajar en equipo, aportando mis ideas y conocimientos.
 
 Habilidades: 

@@ -33,18 +33,3 @@ Habilidades:
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/juank27ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-carlos-ramirez-pinilla-a8518077//)  
 
-
-
-
-
-
-$title: Title of the post
-$url: URL of the post
-$description: Description of the post
-$newline: Inserts a newline
-$date: Inserts the post date based on the date_format specified
-$randomEmoji: Allow you to use random emojis in the post, pass emojis as the parameter to chose one of it randomly in each post item. Eg: $randomEmoji(💯,🔥,💫,🚀,🌮). See the issue comment for more details
-$emojiKey: You can use this argument to show emojis on each of your post item sequentially in the order you specify. Example: $emojiKey(💯,🔥,💫). See the issue comment for more details
-$counter: You can use this argument to show a serial number on each of your post items.
-$feedName: You can use this argument to show a string that represents your website name, use feed_names argument to specify it for each feed item. Eg: feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/", feed_names: "Dev.to,Personal Website"
-$categories: You can use this to show a comma separated list of post categories if available. See this issue for more details

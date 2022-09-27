@@ -1,6 +1,7 @@
 ![Header](./![github-header-image](https://user-images.githubusercontent.com/96093773/192641924-908693fd-9699-47db-970e-9d4606bd948d.png)
 )
 
+![Header](./96093773/192641924-908693fd-9699-47db-970e-9d4606bd948d.png)
 
 ### Hola 👋, Soy Juan Carlos Ramirez Pinilla 
 #### Desarrollador web Full Stack

@@ -13,8 +13,3 @@ Habilidades: javascript html css react redux Sequelize NodeJS Express GitHub git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/juank27ra)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/juank27ra&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/juank27ra)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/juank27ra)  

@@ -18,10 +18,6 @@ Habilidades:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-![image](https://user-images.githubusercontent.com/96093773/192630091-31ec7fb6-8aa4-48ac-a1f0-a04c8c21c1d1.png)
-
-
  Educacion:
   
   ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)

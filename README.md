@@ -3,7 +3,7 @@
 
 Soy un joven colombiano certificado en Desarrollo web Full Stack Javascript, apasionado por la tecnología en especial el desarrollo web desde que lo conocí y por la lectura de crecimiento personal y educación financiera. Disfruto adquirir nuevos conocimientos, en lo cual estoy enfocado como también, perfeccionar mis habilidades todos los días. Me caracterizo por cumplir con los objetivos que me propongo. Disfruto de poder trabajar en equipo, aportando mis ideas y conocimientos.
 
-Actualmente estoy enfocado de manera autodidacta a aprender y perfeccionar los diseños con tailwincss y manejar base de Datos no relacional como lo es mongoDb; y he estado viendo un poco de Docker con sus contendores. También pude certificarme como Scrum Fundamentals Certified con SCRUMstudy. 
+Actualmente estoy enfocado de manera autodidacta a aprender y perfeccionar los diseños con tailwindcss y manejar base de Datos no relacional como lo es mongoDb; y he estado viendo un poco de Docker con sus contendores. También pude certificarme como Scrum Fundamentals Certified con SCRUMstudy. 
 
 Habilidades: 
 

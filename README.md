@@ -22,7 +22,7 @@ Habilidades:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+PortFolio: https://portfolio-jcrp.vercel.app/
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juank27ra"  />
   

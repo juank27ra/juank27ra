@@ -1,11 +1,11 @@
 ![Header](https://user-images.githubusercontent.com/96093773/192645022-d75ff2e0-cfcd-48c4-a204-8a2af51d74fe.png)
 
 
-Soy un joven colombiano certificado en Desarrollo web Full Stack Javascript, apasionado por la tecnología en especial el desarrollo web desde que lo conocí y por la lectura de crecimiento personal y educación financiera. Disfruto adquirir nuevos conocimientos, en lo cual estoy enfocado como también, perfeccionar mis habilidades todos los días. Me caracterizo por cumplir con los objetivos que me propongo. Disfruto de poder trabajar en equipo, aportando mis ideas y conocimientos.
+Soy un apasionado por la tecnología en especial el desarrollo web desde que lo conocí y por la lectura de crecimiento personal y educación financiera. Disfruto adquirir nuevos conocimientos, en lo cual estoy enfocado como también, perfeccionar mis habilidades todos los días. Me caracterizo por cumplir con los objetivos que me propongo. Disfruto de poder trabajar en equipo, aportando mis ideas y conocimientos pero también de manera Individual.
 
-Actualmente estoy enfocado de manera autodidacta a aprender Docker y perfeccionar los diseños con tailwindcss. También me certifiqué como Scrum Fundamentals Certified con SCRUMstudy y Testing QA Manual en aulaonline.com.ar. 
+Actualmente estoy enfocado de manera autodidacta a aprender Docker y perfeccionar los diseños con tailwindcss. También me certifiqué como Scrum Fundamentals Certified con SCRUMstudy y Testing QA Manual. 
 
-Habilidades: 
+                                                                        Habilidades: 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -22,9 +22,11 @@ Habilidades:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-PortFolio: https://portfolio-jcrp.vercel.app/
+                                                      PortFolio: https://portfolio-jcrp.vercel.app/
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juank27ra"  />
+
+                                                                      Contáctame
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juank27ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-carlos-ramirez-pinilla-a8518077//)  
 

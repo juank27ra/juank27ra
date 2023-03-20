@@ -5,7 +5,7 @@ Soy un apasionado por la tecnología en especial el desarrollo web desde que lo 
 
 Actualmente estoy enfocado de manera autodidacta a aprender Docker y perfeccionar los diseños con tailwindcss. También me certifiqué como Scrum Fundamentals Certified con SCRUMstudy y Testing QA Manual. 
 
-                                                                        Habilidades: 
+                                                                  Habilidades: 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -26,7 +26,7 @@ Actualmente estoy enfocado de manera autodidacta a aprender Docker y perfecciona
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juank27ra"  />
 
-                                                                      Contáctame
+                                                                  Contáctame
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juank27ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-carlos-ramirez-pinilla-a8518077//)  
 

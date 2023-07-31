@@ -3,7 +3,9 @@
 
 Soy un apasionado por la tecnología en especial el desarrollo web desde que lo conocí y por la lectura de crecimiento personal y educación financiera. Disfruto adquirir nuevos conocimientos, en lo cual estoy enfocado como también, perfeccionar mis habilidades todos los días. Me caracterizo por cumplir con los objetivos que me propongo. Disfruto de poder trabajar en equipo, aportando mis ideas y conocimientos pero también de manera Individual.
 
-Actualmente estoy enfocado de manera autodidacta a aprender Docker y perfeccionar los diseños con tailwindcss. También me certifiqué como Scrum Fundamentals Certified con SCRUMstudy y Testing QA Manual. 
+Mi última experiencia laboral estuvo enfocada en ecommerce, donde participé organizacionalmente como desarrollador frontend trainee y pude aprender una nueva tecnología como lo es Vtex Io y fortalecer otras como React, Json y Css.
+
+Actualmente estoy enfocado en la Búsqueda laboral It y también como colaborador full stack orientado mas al frontend en una ONGD, para seguir creciendo en este campo del desarrollo.
 
                                                                   Habilidades: 
 
@@ -26,6 +28,7 @@ Actualmente estoy enfocado de manera autodidacta a aprender Docker y perfecciona
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juank27ra"  />
 
+Si te gusta mi background...
                                                                   Contáctame
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juank27ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-carlos-ramirez-pinilla-a8518077//)  

@@ -5,7 +5,7 @@ Soy un apasionado por la tecnología en especial el desarrollo web desde que lo 
 
 Mi última experiencia laboral estuvo enfocada en ecommerce, donde participé organizacionalmente como desarrollador frontend trainee y pude aprender una nueva tecnología como lo es Vtex Io y fortalecer otras como React, Json y Css.
 
-Actualmente estoy enfocado en la Búsqueda laboral It y también como colaborador full stack orientado mas al frontend en una ONGD, para seguir creciendo en este campo del desarrollo.
+Actualmente estoy enfocado en la Búsqueda laboral It y también como colaborador full stack orientado mas al frontend en AWAQ ONGD, para seguir creciendo en este campo del desarrollo.
 
                                                                   Habilidades: 
 

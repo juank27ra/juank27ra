@@ -26,11 +26,16 @@ Actualmente estoy enfocado en la Búsqueda laboral It y también como colaborado
 
                                                       PortFolio: https://jcrp.vercel.app/
 
+![image](https://github.com/juank27ra/juank27ra/assets/96093773/4d866c16-00a2-4ea2-ab64-523b98d6c4d8)
+
+
+                                                            Tecnologías más usadas
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juank27ra"  />
 
 Si te gusta mi background...
 
                                                                   Contáctame
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juank27ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-carlos-ramirez-pinilla-a8518077//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50' color='#fff'>](https://github.com/juank27ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/juan-carlos-ramirez-pinilla-a8518077//)  
 

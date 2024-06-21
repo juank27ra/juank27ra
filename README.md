@@ -37,5 +37,5 @@ Si te gusta mi background...
 
                                                                   Contáctame
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50' color='#fff' target='_blank'>](https://github.com/juank27ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/juan-ramirez-p/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50' color='#9b9b9b' target='_blank'>](https://github.com/juank27ra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' color='#0e76a8' height='50' target='_blank'>](https://www.linkedin.com/in/juan-ramirez-p/)  
 

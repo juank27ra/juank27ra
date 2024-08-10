@@ -7,7 +7,7 @@ Qué servicios te puedo ofrecer?
 
     { 
       "Creación de landing Pages": "Para tener presencia en la web, ya sea con tu marca personal y/o negocio",
-      "Manejo de errores y diseños Responsivos": "Para que tu página se adapte a los diferentes dispositivos o funcione correctamente",
+      "Manejo de errores y diseños Responsivos": "Así tu página se adaptará a diferentes dispositivos y funcionará correctamente",
     }
 
                                                                   Habilidades: 

@@ -3,13 +3,22 @@
 
 Soy un apasionado por la tecnología en especial el desarrollo web desde que lo conocí. Disfruto adquirir nuevos conocimientos y perfeccionarlos en lo cual estoy enfocado. Me caracterizo por cumplir con los objetivos que me propongo. Disfruto de poder trabajar en equipo, aportando mis ideas y conocimientos pero también de manera individual, como lo he hecho en AWAQ ONGD e Ttglobers en su momento.
 
+    const juanRamirez: {
+        "tecnologías": ["javascript", "nodejs", "expressjs", "react", "redux", "css", "html", "tailwindcss", "postgresql", "mongodb"],
+        "stack": ["frontend", "fullStack", "Backend", "mern", "pern"],
+        "Hobbies": {
+            lectura: ["desarrollo web", "desarrollo personal", "educacion financiera]"],
+            ["conducción", "naturaleza", "escuchar música"]
+        },
+
 Qué servicios te puedo ofrecer?
 
-    { 
-      "Creación de landing Pages": "Para tener presencia en la web, ya sea con tu marca personal y/o negocio",
-      "Manejo de errores ": "La experiencia de usuario será más fluida y la navegabilidad totalmente exitosa",
-      "Diseños Responsivos": "Así tu página se adaptará a diferentes dispositivos"
-    }
+      const servicios: { 
+          "Creación de landing Pages": "Para tener presencia en la web, ya sea con tu marca personal y/o negocio",
+          "Manejo de errores ": "La experiencia de usuario será más fluida y la navegabilidad totalmente exitosa",
+          "Diseños Responsivos": "Así tu página se adaptará a diferentes dispositivos",
+          "Soporte y mantenimiento"
+        }
 
                                                                   Habilidades: 
 

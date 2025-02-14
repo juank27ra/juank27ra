@@ -7,9 +7,10 @@ Soy un apasionado por la tecnología en especial el desarrollo web desde que lo 
         "tecnologías": ["javascript", "nodejs", "expressjs", "react", "redux", "css", "html", "tailwindcss", "postgresql", "mongodb"],
         "stack": ["frontend", "fullStack", "Backend", "mern", "pern"],
         "Hobbies": {
-            lectura: ["desarrollo web", "desarrollo personal", "educacion financiera]"],
-            ["conducción", "naturaleza", "escuchar música"]
-        },
+                lectura: ["desarrollo web", "desarrollo personal", "educacion financiera]"],
+                ["conducción", "naturaleza", "escuchar música"]
+            }
+        }
 
 Qué servicios te puedo ofrecer?
 

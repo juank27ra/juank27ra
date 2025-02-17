@@ -40,7 +40,8 @@ Qué servicios te puedo ofrecer?
 
                                                       PortFolio: https://jcrp.vercel.app/
 
-![image](https://github.com/juank27ra/juank27ra/assets/96093773/4d866c16-00a2-4ea2-ab64-523b98d6c4d8)
+![jcrp vercel app_](https://github.com/user-attachments/assets/7582e763-53a4-471a-bb77-4a03870580ab)
+
 
 
                                                             Tecnologías más usadas
